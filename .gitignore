@@ -1,0 +1,10 @@
+﻿data/
+baseline/
+tables/
+figures/
+logs/
+*.dta
+*.rds
+*.RData
+.Rhistory
+__pycache__/

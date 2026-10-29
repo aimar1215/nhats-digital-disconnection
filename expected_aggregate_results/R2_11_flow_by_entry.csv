@@ -1,0 +1,4 @@
+"cohort","eligible","missing_exposure","known_exposure","no_followup","eligible_after_followup","M4_covariate_excluded","M4_with_entry_weight","M4_positive_followup_weight"
+11,2562,159,2403,123,2280,80,2200,2198
+12,4315,222,4093,243,3850,96,3754,3735
+13,5903,260,5643,371,5272,138,5134,5099

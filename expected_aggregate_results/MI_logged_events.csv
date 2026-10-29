@@ -1,0 +1,1821 @@
+"it","im","dep","meth","out","imputation"
+0,0,"","collinear","death_time",1
+1,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+1,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+1,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+1,1,"dep_f","cart","out3外出未知, proxy_f代答",1
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",1
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",1
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+2,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+2,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+2,1,"dep_f","cart","out3外出未知, proxy_f代答",1
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",1
+2,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",1
+3,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+3,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+3,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+3,1,"dep_f","cart","out3外出未知, proxy_f代答",1
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",1
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",1
+4,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+4,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+4,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",1
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",1
+4,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",1
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+5,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",1
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",1
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",1
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+6,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+6,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",1
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",1
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",1
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+7,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+7,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",1
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",1
+7,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",1
+8,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+8,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+8,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+8,1,"dep_f","cart","mem_f记忆未知, out3外出未知",1
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",1
+8,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",1
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+9,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+9,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+9,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",1
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",1
+9,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",1
+10,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+10,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",1
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",1
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",1
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",1
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",1
+0,0,"","collinear","death_time",2
+1,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+1,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+1,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+1,1,"dep_f","cart","out3外出未知, proxy_f代答",2
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",2
+1,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",2
+2,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+2,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+2,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",2
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",2
+2,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",2
+3,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+3,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+3,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+3,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",2
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",2
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",2
+4,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+4,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+4,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+4,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",2
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",2
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",2
+5,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+5,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+5,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+5,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+5,1,"dep_f","cart","out3外出未知, proxy_f代答",2
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",2
+5,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",2
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",2
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",2
+6,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",2
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+7,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+7,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+7,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+7,1,"dep_f","cart","out3外出未知, proxy_f代答",2
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",2
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",2
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+8,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+8,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+8,1,"dep_f","cart","mem_f记忆未知, out3外出未知",2
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",2
+8,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",2
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+9,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+9,1,"dep_f","cart","out3外出未知, proxy_f代答",2
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",2
+9,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",2
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+10,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",2
+10,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+10,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+10,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",2
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",2
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",2
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",2
+0,0,"","collinear","death_time",3
+1,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+1,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+1,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+1,1,"dep_f","cart","mem_f记忆未知, out3外出未知",3
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",3
+1,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",3
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+2,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+2,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+2,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+2,1,"dep_f","cart","out3外出未知, proxy_f代答",3
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",3
+2,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",3
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+3,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+3,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+3,1,"dep_f","cart","out3外出未知, proxy_f代答",3
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",3
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",3
+4,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+4,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+4,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+4,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",3
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",3
+4,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",3
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+5,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+5,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+5,1,"dep_f","cart","out3外出未知, proxy_f代答",3
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",3
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",3
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+6,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+6,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",3
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",3
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",3
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+7,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+7,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+7,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+7,1,"dep_f","cart","out3外出未知, proxy_f代答",3
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",3
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",3
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+8,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+8,1,"dep_f","cart","mem_f记忆未知, out3外出未知",3
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",3
+8,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",3
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+9,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+9,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",3
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",3
+9,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",3
+10,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",3
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+10,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",3
+10,1,"dep_f","cart","out3外出未知, proxy_f代答",3
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",3
+10,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",3
+0,0,"","collinear","death_time",4
+1,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+1,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+1,1,"dep_f","cart","mem_f记忆未知, out3外出未知",4
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",4
+1,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",4
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+2,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+2,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+2,1,"dep_f","cart","out3外出未知, proxy_f代答",4
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",4
+2,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",4
+3,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+3,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+3,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",4
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",4
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",4
+4,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+4,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+4,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+4,1,"dep_f","cart","out3外出未知, proxy_f代答",4
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",4
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",4
+5,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+5,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+5,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",4
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",4
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",4
+6,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+6,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+6,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+6,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+6,1,"dep_f","cart","mem_f记忆未知, out3外出未知",4
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",4
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",4
+7,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+7,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+7,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",4
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",4
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",4
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+8,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+8,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+8,1,"dep_f","cart","mem_f记忆未知, out3外出未知",4
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",4
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",4
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+9,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+9,1,"dep_f","cart","out3外出未知, proxy_f代答",4
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",4
+9,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",4
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",4
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+10,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",4
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",4
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",4
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",4
+0,0,"","collinear","death_time",5
+1,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+1,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+1,1,"dep_f","cart","mem_f记忆未知, out3外出未知",5
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",5
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",5
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+2,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+2,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",5
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",5
+2,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",5
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+3,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+3,1,"dep_f","cart","out3外出未知, proxy_f代答",5
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",5
+3,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",5
+4,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+4,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+4,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+4,1,"dep_f","cart","out3外出未知, proxy_f代答",5
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",5
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",5
+5,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+5,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+5,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+5,1,"dep_f","cart","out3外出未知, proxy_f代答",5
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",5
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",5
+6,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+6,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+6,1,"dep_f","cart","mem_f记忆未知, out3外出未知",5
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",5
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",5
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+7,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+7,1,"dep_f","cart","out3外出未知, proxy_f代答",5
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",5
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",5
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+8,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",5
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",5
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",5
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+9,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",5
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",5
+9,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",5
+10,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+10,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+10,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+10,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",5
+10,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",5
+10,1,"dep_f","cart","out3外出未知, proxy_f代答",5
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",5
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",5
+0,0,"","collinear","death_time",6
+1,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+1,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+1,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+1,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+1,1,"dep_f","cart","mem_f记忆未知, out3外出未知",6
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",6
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",6
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+2,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+2,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",6
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",6
+2,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",6
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+3,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+3,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",6
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",6
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",6
+4,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+4,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+4,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",6
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",6
+4,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",6
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+5,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+5,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+5,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+5,1,"dep_f","cart","out3外出未知, proxy_f代答",6
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",6
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",6
+6,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+6,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+6,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",6
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",6
+6,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",6
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+7,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+7,1,"dep_f","cart","out3外出未知, proxy_f代答",6
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",6
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",6
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+8,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",6
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",6
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",6
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+9,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+9,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",6
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",6
+9,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",6
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+10,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+10,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+10,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",6
+10,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",6
+10,1,"dep_f","cart","out3外出未知, proxy_f代答",6
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",6
+10,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",6
+0,0,"","collinear","death_time",7
+1,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+1,1,"dep_f","cart","out3外出未知, proxy_f代答",7
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",7
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",7
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+2,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",7
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",7
+2,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",7
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+3,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+3,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+3,1,"dep_f","cart","out3外出未知, proxy_f代答",7
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",7
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",7
+4,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+4,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+4,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+4,1,"dep_f","cart","out3外出未知, proxy_f代答",7
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",7
+4,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",7
+5,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+5,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+5,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+5,1,"dep_f","cart","out3外出未知, proxy_f代答",7
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",7
+5,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",7
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+6,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+6,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",7
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",7
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",7
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+7,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+7,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",7
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",7
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",7
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+8,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",7
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",7
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",7
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+9,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+9,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+9,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",7
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",7
+9,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",7
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+10,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+10,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+10,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",7
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",7
+10,1,"dep_f","cart","out3外出未知, proxy_f代答",7
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",7
+10,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",7
+0,0,"","collinear","death_time",8
+1,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+1,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+1,1,"dep_f","cart","mem_f记忆未知, out3外出未知",8
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",8
+1,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",8
+2,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+2,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+2,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+2,1,"dep_f","cart","out3外出未知, proxy_f代答",8
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",8
+2,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",8
+3,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+3,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+3,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+3,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",8
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",8
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",8
+4,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+4,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",8
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",8
+4,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",8
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+5,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",8
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",8
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",8
+6,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+6,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+6,1,"dep_f","cart","mem_f记忆未知, out3外出未知",8
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",8
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",8
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+7,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+7,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+7,1,"dep_f","cart","out3外出未知, proxy_f代答",8
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",8
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",8
+8,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+8,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+8,1,"dep_f","cart","mem_f记忆未知, out3外出未知",8
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",8
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",8
+9,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",8
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",8
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",8
+9,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",8
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+10,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+10,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",8
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",8
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",8
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",8
+0,0,"","collinear","death_time",9
+1,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+1,1,"dep_f","cart","out3外出未知, proxy_f代答",9
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",9
+1,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",9
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+2,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+2,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+2,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",9
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",9
+2,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",9
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+3,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+3,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+3,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+3,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",9
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",9
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",9
+4,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+4,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+4,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+4,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",9
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",9
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",9
+5,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+5,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+5,1,"dep_f","cart","out3外出未知, proxy_f代答",9
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",9
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",9
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+6,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+6,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",9
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",9
+6,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",9
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+7,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+7,1,"dep_f","cart","out3外出未知, proxy_f代答",9
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",9
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",9
+8,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+8,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",9
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",9
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",9
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",9
+9,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+9,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+9,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+9,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",9
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",9
+9,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",9
+10,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+10,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+10,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+10,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",9
+10,1,"dep_f","cart","out3外出未知, proxy_f代答",9
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",9
+10,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",9
+0,0,"","collinear","death_time",10
+1,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+1,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+1,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+1,1,"dep_f","cart","out3外出未知, proxy_f代答",10
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",10
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",10
+2,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+2,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+2,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",10
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",10
+2,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",10
+3,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+3,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+3,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",10
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",10
+3,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",10
+4,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+4,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",10
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",10
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",10
+5,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+5,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",10
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",10
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",10
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+6,1,"dep_f","cart","mem_f记忆未知, out3外出未知",10
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",10
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",10
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+7,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+7,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",10
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",10
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",10
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+8,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",10
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",10
+8,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",10
+9,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",10
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",10
+9,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",10
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+10,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+10,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",10
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+10,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",10
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",10
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",10
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",10
+0,0,"","collinear","death_time",11
+1,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知",11
+1,1,"race","cart","dep_f抑郁筛查未知, out3外出未知",11
+1,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知",11
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知",11
+1,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+1,1,"dep_f","cart","out3外出未知",11
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",11
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+2,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+2,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+2,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",11
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+2,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",11
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+3,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",11
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",11
+4,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+4,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+4,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+4,1,"dep_f","cart","out3外出未知, proxy_f代答",11
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",11
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+5,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+5,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+5,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",11
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",11
+6,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+6,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",11
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",11
+7,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+7,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+7,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+7,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+7,1,"dep_f","cart","out3外出未知, proxy_f代答",11
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",11
+8,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+8,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+8,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+8,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",11
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+8,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",11
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+9,1,"dep_f","cart","out3外出未知, proxy_f代答",11
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+9,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",11
+10,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+10,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",11
+10,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",11
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",11
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",11
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",11
+0,0,"","collinear","death_time",12
+1,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+1,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+1,1,"dep_f","cart","out3外出未知, proxy_f代答",12
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",12
+1,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",12
+2,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+2,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",12
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",12
+2,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",12
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+3,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+3,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+3,1,"dep_f","cart","out3外出未知, proxy_f代答",12
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",12
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",12
+4,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+4,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+4,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",12
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",12
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",12
+5,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+5,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+5,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+5,1,"dep_f","cart","out3外出未知, proxy_f代答",12
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",12
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",12
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+6,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+6,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+6,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",12
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",12
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",12
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+7,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+7,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",12
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",12
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",12
+8,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+8,1,"dep_f","cart","mem_f记忆未知, out3外出未知",12
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",12
+8,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",12
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",12
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",12
+9,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",12
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+10,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",12
+10,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+10,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",12
+10,1,"dep_f","cart","out3外出未知, proxy_f代答",12
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",12
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",12
+0,0,"","collinear","death_time",13
+1,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+1,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+1,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+1,1,"dep_f","cart","out3外出未知, proxy_f代答",13
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",13
+1,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",13
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+2,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+2,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",13
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",13
+2,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",13
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+3,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+3,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",13
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",13
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",13
+4,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+4,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",13
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",13
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",13
+5,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+5,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+5,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+5,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+5,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",13
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",13
+5,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",13
+6,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+6,1,"dep_f","cart","mem_f记忆未知, out3外出未知",13
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",13
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",13
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+7,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+7,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",13
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",13
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",13
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+8,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+8,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+8,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+8,1,"dep_f","cart","mem_f记忆未知, out3外出未知",13
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",13
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",13
+9,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+9,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+9,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+9,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+9,1,"dep_f","cart","out3外出未知, proxy_f代答",13
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",13
+9,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",13
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+10,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",13
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",13
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",13
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",13
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",13
+0,0,"","collinear","death_time",14
+1,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+1,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+1,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+1,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+1,1,"dep_f","cart","mem_f记忆未知, out3外出未知",14
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",14
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",14
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+2,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+2,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",14
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",14
+2,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",14
+3,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+3,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+3,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+3,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",14
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",14
+3,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",14
+4,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+4,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+4,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",14
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",14
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",14
+5,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+5,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",14
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",14
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",14
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+6,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+6,1,"dep_f","cart","mem_f记忆未知, out3外出未知",14
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",14
+6,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",14
+7,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+7,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+7,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+7,1,"dep_f","cart","out3外出未知, proxy_f代答",14
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",14
+7,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",14
+8,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+8,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+8,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+8,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+8,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",14
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",14
+8,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",14
+9,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+9,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",14
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",14
+9,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",14
+10,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+10,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",14
+10,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",14
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",14
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",14
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",14
+0,0,"","collinear","death_time",15
+1,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知",15
+1,1,"race","cart","dep_f抑郁筛查未知, out3外出未知",15
+1,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知",15
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知",15
+1,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+1,1,"dep_f","cart","out3外出未知",15
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+1,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",15
+2,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+2,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+2,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+2,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+2,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",15
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+2,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",15
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+3,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+3,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+3,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",15
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+3,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",15
+4,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+4,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+4,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",15
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+4,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",15
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+5,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+5,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+5,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+5,1,"dep_f","cart","out3外出未知, proxy_f代答",15
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+5,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",15
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+6,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+6,1,"dep_f","cart","mem_f记忆未知, out3外出未知",15
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+6,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",15
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+7,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+7,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+7,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",15
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+7,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",15
+8,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+8,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+8,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+8,1,"dep_f","cart","mem_f记忆未知, out3外出未知",15
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+8,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",15
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+9,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+9,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+9,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",15
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+9,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",15
+10,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",15
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+10,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+10,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",15
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",15
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",15
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",15
+0,0,"","collinear","death_time",16
+1,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+1,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+1,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+1,1,"dep_f","cart","mem_f记忆未知, out3外出未知",16
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",16
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",16
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+2,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",16
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",16
+2,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",16
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+3,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+3,1,"dep_f","cart","out3外出未知, proxy_f代答",16
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",16
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",16
+4,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+4,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+4,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+4,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",16
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",16
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",16
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+5,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+5,1,"dep_f","cart","out3外出未知, proxy_f代答",16
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",16
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",16
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+6,1,"dep_f","cart","mem_f记忆未知, out3外出未知",16
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",16
+6,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",16
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+7,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+7,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",16
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",16
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",16
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+8,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",16
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",16
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",16
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+9,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+9,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",16
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",16
+9,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",16
+10,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+10,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+10,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",16
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",16
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",16
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",16
+10,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",16
+0,0,"","collinear","death_time",17
+1,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+1,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+1,1,"dep_f","cart","out3外出未知, proxy_f代答",17
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",17
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",17
+2,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+2,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+2,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+2,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",17
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",17
+2,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",17
+3,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+3,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+3,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+3,1,"dep_f","cart","out3外出未知, proxy_f代答",17
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",17
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",17
+4,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+4,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+4,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+4,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",17
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",17
+4,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",17
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+5,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+5,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+5,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",17
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",17
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",17
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+6,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+6,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",17
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",17
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",17
+7,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+7,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+7,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",17
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",17
+7,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",17
+8,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+8,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+8,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+8,1,"dep_f","cart","mem_f记忆未知, out3外出未知",17
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",17
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",17
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",17
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",17
+9,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",17
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+10,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",17
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",17
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",17
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",17
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",17
+0,0,"","collinear","death_time",18
+1,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+1,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+1,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+1,1,"dep_f","cart","mem_f记忆未知, out3外出未知",18
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",18
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",18
+2,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+2,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+2,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",18
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",18
+2,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",18
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+3,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+3,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+3,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",18
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",18
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",18
+4,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+4,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+4,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",18
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",18
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",18
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+5,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+5,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",18
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",18
+5,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",18
+6,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+6,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+6,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",18
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",18
+6,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",18
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+7,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+7,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+7,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",18
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",18
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",18
+8,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+8,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+8,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",18
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",18
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",18
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+9,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+9,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+9,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",18
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",18
+9,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",18
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+10,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",18
+10,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",18
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",18
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",18
+10,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",18
+0,0,"","collinear","death_time",19
+1,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+1,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+1,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+1,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+1,1,"dep_f","cart","out3外出未知, proxy_f代答",19
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",19
+1,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",19
+2,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+2,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+2,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+2,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+2,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+2,1,"dep_f","cart","out3外出未知, proxy_f代答",19
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",19
+2,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",19
+3,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+3,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+3,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+3,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+3,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+3,1,"dep_f","cart","mem_f记忆未知, out3外出未知",19
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",19
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",19
+4,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+4,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+4,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+4,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",19
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",19
+4,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",19
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+5,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+5,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+5,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",19
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",19
+5,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",19
+6,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+6,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+6,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+6,1,"dep_f","cart","out3外出未知, proxy_f代答",19
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",19
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",19
+7,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+7,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+7,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+7,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+7,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",19
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",19
+7,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",19
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+8,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+8,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+8,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",19
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",19
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",19
+9,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+9,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+9,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+9,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",19
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",19
+9,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",19
+10,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+10,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+10,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",19
+10,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",19
+10,1,"dep_f","cart","out3外出未知, proxy_f代答",19
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",19
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",19
+0,0,"","collinear","death_time",20
+1,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知",20
+1,1,"race","cart","dep_f抑郁筛查未知, out3外出未知",20
+1,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知",20
+1,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+1,1,"married","cart","dep_f抑郁筛查未知, out3外出未知",20
+1,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+1,1,"dep_f","cart","out3外出未知",20
+1,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+1,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",20
+2,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+2,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+2,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+2,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+2,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+2,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+2,1,"dep_f","cart","mem_f记忆未知, out3外出未知",20
+2,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+2,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",20
+3,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+3,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+3,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+3,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+3,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+3,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+3,1,"dep_f","cart","out3外出未知, proxy_f代答",20
+3,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+3,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",20
+4,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+4,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+4,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+4,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+4,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+4,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+4,1,"dep_f","cart","mem_f记忆未知, out3外出未知",20
+4,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+4,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",20
+5,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+5,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+5,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+5,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+5,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+5,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+5,1,"dep_f","cart","mem_f记忆未知, out3外出未知",20
+5,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+5,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",20
+6,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+6,1,"race","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+6,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+6,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+6,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+6,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+6,1,"dep_f","cart","mem_f记忆未知, out3外出未知",20
+6,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+6,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",20
+7,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+7,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+7,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+7,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+7,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+7,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+7,1,"dep_f","cart","mem_f记忆未知, out3外出未知",20
+7,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+7,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",20
+8,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+8,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+8,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+8,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+8,1,"married","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+8,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+8,1,"dep_f","cart","out3外出未知, proxy_f代答",20
+8,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+8,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",20
+9,1,"sex","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+9,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+9,1,"educ3","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+9,1,"medicaid_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+9,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+9,1,"srh_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+9,1,"dep_f","cart","mem_f记忆未知, out3外出未知",20
+9,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+9,1,"out3","cart","dep_f抑郁筛查未知, proxy_f代答",20
+10,1,"sex","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+10,1,"race","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+10,1,"educ3","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+10,1,"medicaid_f","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+10,1,"married","cart","dep_f抑郁筛查未知, mem_f记忆未知, out3外出未知",20
+10,1,"srh_f","cart","dep_f抑郁筛查未知, out3外出未知, proxy_f代答",20
+10,1,"dep_f","cart","mem_f记忆未知, out3外出未知",20
+10,1,"mem_f","cart","dep_f抑郁筛查未知, out3外出未知",20
+10,1,"out3","cart","dep_f抑郁筛查未知, mem_f记忆未知",20

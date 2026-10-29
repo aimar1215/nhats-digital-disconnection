@@ -1,0 +1,6 @@
+"variable","original","supplement"
+"Exposure","641 excluded; not imputed","unchanged exclusion"
+"Age/sex/race/education/Medicaid/marital/SRH","complete-case in primary models","first-entry MICE for item nonresponse"
+"Income","unknown category","20 official draws plus residual missing imputation"
+"PHQ2/memory/going outside","unknown category for unavailable response","structural skips retained; ordinary unknown imputed in MI"
+"ADL","original count coding retained","original definition retained under scope instruction"

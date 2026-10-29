@@ -1,0 +1,11 @@
+"metric","value"
+"baseline_persons",6530
+"zero_followup_baselines",565
+"censor_model_intervals",12312
+"minimum_unclipped_observation_probability",0.0470800046857171
+"clipped_observation_probabilities",6
+"SW_p01",0.900529944901255
+"SW_p99",1.13418743126071
+"SW_max",16.3405674919318
+"outcome_intervals",11563
+"effective_n_weighted_intervals",6531.23132381937

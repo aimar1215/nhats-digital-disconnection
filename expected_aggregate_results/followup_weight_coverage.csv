@@ -1,0 +1,7 @@
+"cohort","endpoint","N","nonpositive_or_missing","events_without_positive_weight"
+11,"composite",6182,39,39
+12,"composite",7355,50,50
+13,"composite",5272,39,39
+11,"death",6182,39,33
+12,"death",7355,50,41
+13,"death",5272,39,29

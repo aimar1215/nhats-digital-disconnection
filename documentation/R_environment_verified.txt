@@ -1,0 +1,96 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+[1] "Chinese (Simplified)_China.utf8"
+analytic_cohorts MATCH 
+analytic_personperiod MATCH 
+analytic_cohorts_v2 MATCH 
+analytic_personperiod_v2 MATCH 
+Warning message:
+package 'haven' was built under R version 4.5.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'dplyr' was built under R version 4.5.3 
+Warning message:
+package 'tidyr' was built under R version 4.5.3 
+Loading required package: grid
+Loading required package: Matrix
+
+Attaching package: 'Matrix'
+
+The following objects are masked from 'package:tidyr':
+
+    expand, pack, unpack
+
+Loading required package: survival
+
+Attaching package: 'survey'
+
+The following object is masked from 'package:graphics':
+
+    dotchart
+
+Warning message:
+package 'survey' was built under R version 4.5.3 
+
+Attaching package: 'mice'
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following objects are masked from 'package:base':
+
+    cbind, rbind
+
+Warning message:
+package 'mice' was built under R version 4.5.3 
+R version 4.5.1 (2025-06-13 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26100)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=C                            
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8
+[3] LC_MONETARY=C                           
+[4] LC_NUMERIC=C                            
+[5] LC_TIME=C                               
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+[1] mice_3.19.0    survey_4.5     survival_3.8-3 Matrix_1.7-3   tidyr_1.3.2   
+[6] dplyr_1.2.1    haven_2.5.5   
+
+loaded via a namespace (and not attached):
+ [1] generics_0.1.4   shape_1.4.6.1    lattice_0.22-7   lme4_2.0-1      
+ [5] hms_1.1.4        magrittr_2.0.4   mitml_0.4-5      iterators_1.0.14
+ [9] foreach_1.5.2    jomo_2.7-6       glmnet_5.0       nnet_7.3-20     
+[13] backports_1.5.0  DBI_1.3.0        purrr_1.2.1      codetools_0.2-20
+[17] reformulas_0.4.4 Rdpack_2.6.6     cli_3.6.6        mitools_2.4     
+[21] rlang_1.2.0      rbibutils_2.4.1  splines_4.5.1    otel_0.2.0      
+[25] pan_1.9          tools_4.5.1      nloptr_2.2.1     minqa_1.2.8     
+[29] forcats_1.0.1    boot_1.3-31      broom_1.0.12     vctrs_0.7.3     
+[33] R6_2.6.1         rpart_4.1.24     lifecycle_1.0.5  MASS_7.3-65     
+[37] pkgconfig_2.0.3  pillar_1.11.1    glue_1.8.0       Rcpp_1.1.0      
+[41] tibble_3.3.0     tidyselect_1.2.1 nlme_3.1-168     compiler_4.5.1  
